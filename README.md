@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanjeet</h1>
-<h3 align="center">A passionate full stack developer and AI Intigration from India</h3>
+<h3 align="center">A passionate full stack developer and AI Intigrator from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanjeet-007&label=Profile%20views&color=0e75b6&style=flat" alt="amanjeet-007" /> </p>
 
