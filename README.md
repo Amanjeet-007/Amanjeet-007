@@ -8,82 +8,82 @@
 ## 🚀 Languages and Tools I Use
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" style="margin-right: 10px;">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://www.chartjs.org/media/logo-title.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.chartjs.org/media/logo-title.svg">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://cdn.worldvectorlogo.com/logos/django.svg">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42" style="margin-right: 10px;">
+  </a>
+  <a target="_blank" rel="noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" style="margin-right: 10px;">
   </a>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" style="margin-right: 10px;">
   </a>
 </p>
@@ -93,10 +93,10 @@
 ## ⚡️ Where to find me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amanjeet-kumar-374b0928a" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/https://www.linkedin.com/in/amanjeet-kumar-374b0928a">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" style="margin-right: 10px;">
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/amanjeet_singh_007_/" target="_blank" rel="noreferrer">
+  <a target="_blank" rel="noreferrer" href="https://www.instagram.com/https://www.instagram.com/amanjeet_singh_007_/">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram">
   </a>
 </p>
