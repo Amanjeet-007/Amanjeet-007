@@ -124,19 +124,19 @@ Passionate about learning new technologies and solving real-world problems.
 
 <p align="center">
 
-<img src="https://github.com/Amanjeet-007/Amanjeet-007/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Amanjeet-007/Amanjeet-007/output/github-contribution-grid-snake.svg" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+<!-- # 🏆 GitHub Achievements
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Amanjeet-007&theme=radical&no-frame=true&row=1&column=7"/>
 
-</p>
+</p> -->
 
 ---
 
