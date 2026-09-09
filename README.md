@@ -17,7 +17,7 @@ Passionate about learning new technologies and solving real-world problems.
 
 # 🌐 Portfolio
 
-🔗 #https://amanjeetportfolio.netlify.app/connect
+🔗https://amanjeetportfolio.netlify.app
 
 ---
 
