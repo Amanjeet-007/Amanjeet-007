@@ -17,7 +17,7 @@ Passionate about learning new technologies and solving real-world problems.
 
 # 🌐 Portfolio
 
-🔗 https://glowing-seahorse-405661.netlify.app
+🔗 #https://amanjeetportfolio.netlify.app/connect
 
 ---
 
